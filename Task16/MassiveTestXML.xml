@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+	<test name="Test">
+		<classes>
+			<class name="core.MassiveTest">
+				<methods>
+					<exclude name="testGetFifthElement" />
+					<exclude name="testGetString" />
+				</methods>
+			</class>
+			<class name="core.MassiveTestThird" />
+			<class name="core.MassiveTestSecond">
+				<methods>
+					<exclude name="testEquals" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite> 
