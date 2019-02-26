@@ -1,0 +1,69 @@
+H1 {
+ color: indigo;
+ font-size: 150%;
+ font-family:Comic Sans MS ;
+ text-align: center
+}
+body {
+background: url(image/fon1.jpg);
+background-repeat: repeat; 
+background-attachment: fixed;
+}
+A.menu{
+ text-decoration: none; 
+ color:#ffffff
+}
+A{
+ text-decoration: none; 
+ color:#000000
+ }
+ A.open{
+ text-decoration: none; 
+ color:orchid
+ }
+A:hover { color: #ff0000; text-decoration: underline; }
+Table.Main {
+background-color:royalblue;
+} 
+td.own{
+text-align:left;
+vertical-align: top; 
+font-size: 100%;
+WIDTH:200px;
+font-weight: bold;
+color:indigo
+}
+H2{
+color:indigo;
+text-align:left;
+font-family:System
+}
+h3{
+font-size: 120%;
+text-align:left;
+font-weight: bolder;
+color:indigo;
+font-family:Comic Sans MS ;
+}
+p.tex{
+color:midnightblue ;
+text-align:JUSTIFY;
+font-size:100%;
+font-weight: bold;
+width:600px
+}
+p.tex1{
+color:midnightblue ;
+text-align:JUSTIFY;
+font-size:100%;
+font-weight: bold;
+width:900px
+}
+#Question{
+text-align:JUSTIFY;
+font-size:100%;
+font-weight: bold;
+position:absolute;
+top: 300px;right: 40px;
+width: 300px;
+}
