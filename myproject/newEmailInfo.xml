@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emailsData>
+	<newEmailInfo>
+		<recievers>marisha_87@tut.by</recievers>
+		<subject>test spam letter</subject>
+		<textOfLetter>Hello, my friend! This is spam letter!</textOfLetter>
+	</newEmailInfo>
+</emailsData>
