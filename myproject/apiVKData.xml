@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<apiVKData >
+		<accessToken>ab79a15ff61db80425cffe4b957ec6e5112aa87082be10b597b07509a5d9d81a6c196d51c5e45b7f985f7</accessToken>
+		<ownerId>537791335</ownerId>
+		<version>5.92</version>
+		<newMessage>new message</newMessage>
+		<editMessage>edit message</editMessage>
+		<uriBuilderPost>https://api.vk.com/method/wall.post?</uriBuilderPost>
+		<uriBuilderEdit>https://api.vk.com/method/wall.edit?</uriBuilderEdit>
+		<uriBuilderDelete>https://api.vk.com/method/wall.delete?</uriBuilderDelete>
+		<photoId>456239019</photoId>
+	</apiVKData>
