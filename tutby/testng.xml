@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestingTutBy" parallel="false">
+	<parameter name="log" value="test99test@tut.by" />
+	<parameter name="passw" value="test99test123456789" />
+	<test name="emailsBox">
+		<classes>
+			<class name="checkEmailsTest.EmailsTest" />
+		</classes>
+	</test>
+</suite>
